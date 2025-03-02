@@ -27,7 +27,6 @@ class MyDocument extends Document {
         </Head>
         <body>
           <Main />
-              <center><a href="https://matchmycutegirlfriend.me" target="_blank"><img class="alignright size-full wp-image-109" title="" src="https://www.buylandingpagedesign.com/portfolio/designs/full/custom-website-static-banner-design-service-018.jpg" alt="" height="150" width="728" /></a></center>
           <NextScript />
         </body>
       </Html>
