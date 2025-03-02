@@ -25,8 +25,8 @@ class MyDocument extends Document {
           <link rel="manifest" href="/favicon/site.webmanifest" />
               <center><a href="https://matchmycutegirlfriend.me" target="_blank"><img class="alignright size-full wp-image-109" title="" src="https://www.buylandingpagedesign.com/portfolio/designs/full/custom-website-static-banner-design-service-018.jpg" alt="" height="150" width="728" /></a></center>
         </Head>
-              <center><a href="https://matchmycutegirlfriend.me" target="_blank"><img class="alignright size-full wp-image-109" title="" src="https://www.buylandingpagedesign.com/portfolio/designs/full/custom-website-static-banner-design-service-018.jpg" alt="" height="150" width="728" /></a></center>
         <body>
+              <center><a href="https://matchmycutegirlfriend.me" target="_blank"><img class="alignright size-full wp-image-109" title="" src="https://www.buylandingpagedesign.com/portfolio/designs/full/custom-website-static-banner-design-service-018.jpg" alt="" height="150" width="728" /></a></center>
           <Main />
           <NextScript />
         </body>
