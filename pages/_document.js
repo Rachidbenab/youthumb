@@ -23,7 +23,7 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
-              <a href="https://matchmycutegirlfriend.me" target="_blank"><img class="alignright size-full wp-image-109" title="" src="https://www.buylandingpagedesign.com/portfolio/designs/full/custom-website-static-banner-design-service-018.jpg" alt="" height="150" width="728" /></a>
+              <center><a href="https://matchmycutegirlfriend.me" target="_blank"><img class="alignright size-full wp-image-109" title="" src="https://www.buylandingpagedesign.com/portfolio/designs/full/custom-website-static-banner-design-service-018.jpg" alt="" height="150" width="728" /></a></center>
         </Head>
         <body>
           <Main />
